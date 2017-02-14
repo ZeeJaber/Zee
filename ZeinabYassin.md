@@ -60,9 +60,9 @@ the knowledge, participation, charisma, management and people skills when attend
 - Achieved 100% quality, service, cleanliness, and value (QSC&V) rating.  
 - Ensured team members delivered high level of customer service.   
 
-#### **Education**  
+### **Education**  
 
-#####Lebanese American University, Beirut, Lebanon   
+#### **Lebanese American University, Beirut, Lebanon**   
 - Bachelor in Business (with distinction)	Jun 2011  
   - Concentration in Banking and Finance  
 - Cumulative GPA: 3.78/4.00  
@@ -70,9 +70,11 @@ the knowledge, participation, charisma, management and people skills when attend
 - Coursework: Chartered Financial Analyst Course Material, Managerial Finance, Financial Institutions and Markets,   
 Monetary Theory, Banking Operations, Financial Management, and **_Financial Modeling (Data Analysis)_**  
 
-*Passed the exam of Chartered Financial Analyst Level 1 [CFA I][CFA]*   
-*June 2015*
+#### **CFA Institute**
+- Passed the exam of Chartered Financial Analyst Level 1 [CFA I][CFA]
+  - June 2015
 
-References
+#### **References**
 
+Available upon request
 [CFA]:https://www.cfainstitute.org/programs/cfaprogram/Pages/index.aspx "Chartered Financial Analyst"
