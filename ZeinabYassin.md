@@ -1,5 +1,5 @@
-          ##Zeinab Yassin 
-          8223 NE 196th street, kenmore, wa 98028 // 612-860-9515 // Zeinabj2007@gmail.com
+##Zeinab Yassin 
+8223 NE 196th street, kenmore, wa 98028 // 612-860-9515 // Zeinabj2007@gmail.com
 
 ###Profile 
 
@@ -12,7 +12,7 @@ communication and management skills, with the ability to work in a team with the
 
 ###Professional Experience
 
-####**Wells Fargo, Golden Valley, MN	Feb 2014 - October 2014 **  
+#### **Wells Fargo, Golden Valley, MN	Feb 2014 - October 2014**  
 #####*Teller (promised with a promotion to a banker before relocating)*  
 - Engage customers to uncover their financial needs and recommend services and products.  
 - Meet and exceed sales goals by more than 10% in a quarter basis.   
