@@ -1,10 +1,10 @@
-##Zeinab Yassin 
-8223 NE 196th Street, Kenmore, WA 98028 // 612-860-9515 // Zeinabj2007@gmail.com
-
-###Profile 
+## **Zeinab Yassin**
+8223 NE 196th Street, Kenmore, WA 98028 // 612-860-9515 // <Zeinabj2007@gmail.com>
+### **Profile** 
 
 A professional with a diverse career ranging from management to banking operations. Managed profit and loss (P&L), analyzed income deviations, and surpassed established sales goals. Possess expertise in forecasting, analysis, and troubleshooting. Proficient in Microsoft Word, Excel(data analysis), and PowerPoint. Detail-oriented team player, recognized for excellent communication and management skills, and ability to embrace and adapt to change.
-###Professional Experience
+
+### **Professional Experience**
 
 #### **Wells Fargo, Golden Valley, MN	Feb 2014 - October 2014**    
 #####Teller     
@@ -13,7 +13,7 @@ A professional with a diverse career ranging from management to banking operatio
 - Maintain and balance a cash drawer.  
 - Go the extra mile to greet customers and make them feel welcome.    
 
-####**BLOM Bank, Beirut, Lebanon	Oct 2011 – Sep 2013**  
+#### **BLOM Bank, Beirut, Lebanon	Oct 2011 – Sep 2013**  
 #####Banker (April 2012 – Sep 2013)  
 - Maintained strong client relationships and immediately responded to client requests.   
 - Reviewed unusual transactions to investigate and control fraud.  
@@ -30,7 +30,7 @@ I exceeded my goals by more than 5%).
 - Trained a group of 4 new tellers on appropriate customer service techniques.  
 - Ensured compliance with audit and operational regulations and guidelines.  
 
-####**McDonald’s Lebanon S.A.L., Baabda , Lebanon	Jul 2005 – Oct 2011**  
+#### **McDonald’s Lebanon S.A.L., Baabda , Lebanon	Jul 2005 – Oct 2011**  
 #####Training Coordinator (Oct 2010 – Oct 2011)  
 - Forecasted and planned deviations in income for training methods on quarterly basis.  
 - Trained 5 employees per a branch, across 21 branches, emphasizing communication skills, teamwork, 
@@ -45,7 +45,7 @@ results and faster development of employees.
 - Enhanced and restructured sales methods and suggestive selling approaches.  
 - Scheduled and prepared presentations about sales and operations of well-trained stores for employees.    
 
-####Assistant Branch Manager, Certified Manager, Swing Manager, & Crew Chief (Jul 2005 – Oct 2010)  
+#####Assistant Branch Manager, Certified Manager, Swing Manager, & Crew Chief (Jul 2005 – Oct 2010)  
 - Forecasted, planned, and controlled Profit & Loss statements.  
 - Attended Profit & Loss meetings to discuss creative and productive ideas of improving profitability of solutions.
 - Developed incentives to improve sales. 
@@ -60,15 +60,19 @@ the knowledge, participation, charisma, management and people skills when attend
 - Achieved 100% quality, service, cleanliness, and value (QSC&V) rating.  
 - Ensured team members delivered high level of customer service.   
 
-####**Education**  
+#### **Education**  
 
 #####Lebanese American University, Beirut, Lebanon   
-Bachelor in Business (with distinction)	Jun 2011  
-Concentration in Banking and Finance  
-Cumulative GPA: 3.78/4.00  
-Distinction and Honor list for the academic years of 2007, 2008, 2009, 2010, & 2011  
-Coursework: Chartered Financial Analyst Course Material, Managerial Finance, Financial Institutions and Markets,   
-Monetary Theory, Banking Operations, Financial Management, and Financial Modeling (Data Analysis)  
+- Bachelor in Business (with distinction)	Jun 2011  
+  - Concentration in Banking and Finance  
+- Cumulative GPA: 3.78/4.00  
+- Distinction and Honor list for the academic years of 2007, 2008, 2009, 2010, & 2011  
+- Coursework: Chartered Financial Analyst Course Material, Managerial Finance, Financial Institutions and Markets,   
+Monetary Theory, Banking Operations, Financial Management, and **_Financial Modeling (Data Analysis)_**  
 
-*Passed the exam of Chartered Financial Analyst Level 1 (CFA I)*   
+*Passed the exam of Chartered Financial Analyst Level 1 [CFA I][CFA]*   
 *June 2015*
+
+References
+
+[CFA]:https://www.cfainstitute.org/programs/cfaprogram/Pages/index.aspx "Chartered Financial Analyst"
