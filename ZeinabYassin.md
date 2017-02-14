@@ -74,7 +74,7 @@ Monetary Theory, Banking Operations, Financial Management, and **_Financial Mode
 - Passed the exam of Chartered Financial Analyst Level 1 [CFA I][CFA]
   - June 2015
 
-#### **References**
+### **References**
 
 Available upon request
 [CFA]:https://www.cfainstitute.org/programs/cfaprogram/Pages/index.aspx "Chartered Financial Analyst"
